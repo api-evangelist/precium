@@ -1,0 +1,41 @@
+generated: '2026-07-20'
+method: searched
+source: https://precium.com/status
+name: Precium API Lifecycle
+description: >-
+  Operational lifecycle signals for Precium's payment infrastructure APIs,
+  captured from the public status dashboard. Precium does not publish a public
+  API reference, versioning policy, or deprecation policy on its documentation
+  host (docs.precium.com currently exposes only legal documents), so runtime
+  version and deprecation posture below are recorded as not-published.
+status_page:
+  url: https://precium.com/status
+  type: custom
+  uptime_window_days: 90
+  components:
+  - name: Precium websites
+    status: operational
+  - name: Precium public API
+    status: operational
+  - name: Precium mandates API
+    status: operational
+  - name: Payment system events
+    status: operational
+  notices:
+  - type: planned-maintenance
+    text: >-
+      Capitec planned maintenance Sunday 19 July 2026, 01:00-04:00, impacting
+      Capitec Pay and Secure Data APIs.
+    observed: '2026-07-20'
+versioning_policy:
+  published: false
+  notes: No public versioning policy located on precium.com or docs.precium.com.
+deprecation_policy:
+  published: false
+  sunset_header: unknown
+  notes: >-
+    No RFC 8594 Sunset/Deprecation header policy documented; API reference is
+    not publicly published.
+sla:
+  published: false
+  notes: Status page invites contacting support to report incidents; no formal SLA published.

@@ -1,8 +1,27 @@
 aid: precium
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/precium.png
 name: Precium
-description: 'Precium is a company surfaced as a portfolio company of partech, qed-investors, speedinvest
-  and added to the API Evangelist network as a stub for enrichment. Sector: Financial Services. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: >-
+  Precium is a South African fintech that provides local payment infrastructure
+  for global merchants expanding into Africa. Its enterprise-grade platform
+  handles payment processing across cards, instant EFT, mobile wallets and debit
+  orders, plus intelligent smart routing, network tokenization, automated
+  reconciliation, cross-border settlement, and payment recovery through retries
+  and mandates. Precium exposes a public API and a mandates API (per its status
+  dashboard) and integrates via server-to-server, redirect, and orchestrator
+  paths with webhook status updates, though it does not publish a public API
+  reference or OpenAPI. Backed by Partech, QED Investors, and Speedinvest.
 url: https://raw.githubusercontent.com/api-evangelist/precium/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,10 +33,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Financial Services
+- Payments
+- Payment Processing
+- Payment Infrastructure
+- Fintech
+- South Africa
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +51,26 @@ maintainers:
 common:
 - type: Website
   url: https://precium.com/
+- type: Documentation
+  url: https://docs.precium.com/
+- type: LLMsTxt
+  url: llms/precium-llms.txt
+- type: Blog
+  url: https://precium.com/magazine
+- type: StatusPage
+  url: https://precium.com/status
+- type: Lifecycle
+  url: lifecycle/precium-lifecycle.yml
+- type: DomainSecurity
+  url: security/precium-domain-security.yml
+- type: Support
+  url: https://precium.com/contact-us
+- type: TermsOfService
+  url: https://precium.com/legal-docs/terms-of-service
+- type: PrivacyPolicy
+  url: https://precium.com/legal-docs/privacy-policy
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

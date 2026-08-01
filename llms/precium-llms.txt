@@ -1,0 +1,73 @@
+Precium
+
+Precium is a leading fintech company specializing in payment optimization and infrastructure solutions for enterprise businesses. Based in South Africa with global operations, Precium provides local payment processing capabilities, intelligent routing, automated reconciliation, and cross-border settlement services. The company focuses on helping businesses streamline payment operations, reduce churn, and enhance customer experiences through advanced payment technologies including network tokenization, smart routing, and multi-method processing capabilities.
+
+## Main pages
+
+[Home](https://www.precium.com/): Local payment infrastructure for global merchants - Precium helps global merchants expand in South Africa with high-approval local processing, built-in compliance, and cross-border settlement.
+
+[About Us](https://www.precium.com/about-us): About Precium - Payment Solutions for Enterprises - Discover how Precium partners with businesses to solve payment challenges, optimise operations, and enhance customer experiences.
+
+[Payment Processing](https://www.precium.com/payment-processing): Enterprise Payment Processing Solutions - Precium - Process, route, and reconcile payments across methods, channels, and providers with Precium's enterprise-grade platform.
+
+[Payment Recovery](https://www.precium.com/payment-recovery): Recover Failed Payments Efficiently - Precium Payment Recovery - Enhance revenue by recovering failed payments with Precium's intelligent routing, retries, and customer engagement tools.
+
+[Contact Us](https://www.precium.com/contact-us): Contact Precium for Enterprise Payment Solutions - Get in touch with Precium for general enquiries, careers, or support. Email or visit us to explore how we can help your business.
+
+[Contact Global Merchants](https://www.precium.com/contact-global-merchants): Contact Us | Support for Global Merchants | Precium - Expanding into Africa? Talk to Precium about enterprise-grade payment solutions to support your global growth and reduce cross-border payment friction.
+
+[Contact Local Merchants](https://www.precium.com/contact-local-merchants): Contact Us | Payment Help for Local Merchants | Precium - Need better payment performance in South Africa? Speak to our team to discover how Precium helps local merchants streamline and scale operations.
+
+[Contact Payment Partners](https://www.precium.com/contact-payment-partners): Contact Precium | Payment Partnership Enquiries - Explore partnership opportunities with Precium. Let's connect on payment infrastructure, routing, and cross-border collaboration in Africa.
+
+[Careers](https://www.precium.com/careers): Careers - The first African payments platform purpose built for enterprise.
+
+[Glossary](https://www.precium.com/payment-terms-glossary): Online Payments Glossary | Precium South Africa - Explore Precium's payments glossary with clear definitions of key payment terms in South Africa — from Instant EFT to Tokenisation and beyond.
+
+[Global Brands' Guide to South African Payments](https://www.precium.com/south-africa-payments-guide): Global Brands' Guide to South African Payments | Precium - Download Precium's definitive guide to South Africa's $350B payments ecosystem. Learn how consumers pay, which methods dominate, and what global merchants must do to expand successfully.
+
+[Global Brands' Guide to South African Payments Thank You](https://www.precium.com/south-africa-payments-guide-thank-you): Global Brands' Guide to South African Payments Thank You - Download Precium's definitive guide to South Africa's $350B payments ecosystem. Learn how consumers pay, which methods dominate, and what global merchants must do to expand successfully.
+
+[Magazine](https://www.precium.com/magazine): Precium Magazine - Payment Technology Insights and Trends - Explore the latest articles on payment technologies and customer behaviour to empower your business ambitions with Precium's expert insights.
+
+## Blogs
+
+[Expansion into South Africa: unpacking the potential of a new market](https://www.precium.com/blog/expansion-into-south-africa-unpacking-the-potential-of-a-new-market): Unpacking the potential of expanding to South Africa - South Africa's digital market is booming. Discover key insights into the consumers and infrastructure, and opportunities for growth.
+
+[Retain customers with smarter payment experiences](https://www.precium.com/blog/retain-customers-with-smarter-payment-experiences): Retain recurring customers with smarter payment experiences - Discover how smarter payment experiences can enhance customer retention for subscription businesses, driving loyalty and boosting revenue effectively.
+
+[A guide to preparing your business for Registered Mandates (RM) in South Africa](https://www.precium.com/blog/a-guide-to-preparing-your-business-for-registered-mandates-rm-in-south-africa): A guide to preparing your business for Registered Mandates - This guide outlines key steps for businesses to manage the transition effectively. Plan ahead to avoid disruptions and maintain collection efficiency.
+
+[RMS to Registered Mandates: beyond just a technical upgrade](https://www.precium.com/blog/rms-to-registered-mandates-beyond-just-a-technical-upgrade): Explainer: RMS to Registered Mandates - South Africa's collection landscape is undergoing a significant transformation with the mandated shift to Registered Mandates.
+
+[Choosing the right payments partner for recurring payments](https://www.precium.com/blog/choosing-the-right-payments-partner-for-recurring-payments): Choosing the right payments partner for recurring payments - Discover how to choose the right payments partner to streamline recurring billing and improve your business's efficiency and customer retention.
+
+[Methods for accepting recurring payments with Precium](https://www.precium.com/blog/methods-for-accepting-recurring-payments-with-precium): Methods for accepting recurring payments in South Africa - Learn how Precium's blog explores methods to streamline recurring payments, boost efficiency, and improve customer experience.
+
+[How to optimise subscription payments](https://www.precium.com/blog/how-to-optimise-subscription-payments): How to optimise subscription payments with Precium - Learn key strategies to optimise subscription payments, reduce churn, and improve customer satisfaction with Precium's insights.
+
+[Why network tokenization is essential for e-commerce](https://www.precium.com/blog/why-network-tokenization-is-essential-for-e-commerce): Learn more about network tokenization by Precium - Learn why network tokenization is crucial for e-commerce, enhancing payment security, reducing fraud, and improving customer trust.
+
+[Less is (often) more - how reducing payment options might actually be better for business](https://www.precium.com/blog/less-is-often-more-how-reducing-payment-options-might-actually-be-better-for-business): Why Fewer Payment Options Can Boost Business | Precium Blog - Explore how reducing payment options can simplify customer decisions, improve conversion rates, and drive business success.
+
+[How e-commerce finance teams can solve growing reconciliation complexity](https://www.precium.com/blog/how-e-commerce-finance-teams-can-solve-growing-reconciliation-complexity): How e-commerce finance teams manage complex reconciliation - Learn strategies for e-commerce finance teams to simplify reconciliation processes and address growing complexities effectively.
+
+[What to expect from partnering with Precium](https://www.precium.com/blog/what-to-expect-from-partnering-with-precium): What to expect from partnering with Precium - Discover what makes Precium a trusted partner for payment solutions and how we support businesses in optimizing their payment performance.
+
+[Understanding smart routing and why it's essential for modern payment processing](https://www.precium.com/blog/understanding-smart-routing-and-why-its-essential-for-modern-payment-processing): Understanding smart routing and why it's essential for modern payment processing - Learn how smart routing optimizes payment success rates, reduces costs, and improves customer experience in modern e-commerce.
+
+[Network tokenization guide](https://www.precium.com/blog/network-tokenization-guide): Network tokenization guide - Comprehensive guide to network tokenization and its benefits for secure payment processing and improved success rates.
+
+[Smart routing guide](https://www.precium.com/blog/smart-routing-guide): Smart routing guide - Learn about intelligent payment routing and how it optimizes transaction success rates and reduces costs.
+
+## Use Cases
+
+[International](https://www.precium.com/use-case/international): International Payment Solutions - Expand Globally with Precium - Tap into Africa's potential with localised payment methods and expert support, ensuring reliable transactions and accelerated expansion.
+
+[Financial Services](https://www.precium.com/use-case/financial-services): Financial Services Payment Solutions | Precium - Enhance collection efficiency and customer retention with Precium's smart routing, retries, and data-driven interactions.
+
+[E-commerce](https://www.precium.com/use-case/e-commerce): E-commerce Payment Solutions | Boost Conversion & Retention - Enhance your e-commerce success with Precium's optimised checkout experiences and automated reconciliation tools for increased sales and customer loyalty.
+
+## Legal Docs
+
+[PAIA Manual](https://www.precium.com/legal-docs/paia-manual): PAIA Manual - Precium's comprehensive manual outlining procedures for requesting access to company records and information under South Af
