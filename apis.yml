@@ -34,6 +34,9 @@ description: >-
   paths with webhook status updates, though it does not publish a public API
   reference or OpenAPI. Backed by Partech, QED Investors, and Speedinvest.
 url: https://raw.githubusercontent.com/api-evangelist/precium/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Precium exposes a public API and a mandates API (per its status dashboard) and integrates via server-to-server, redirect, and orchestrator paths with webhook status updates, though it does not publish"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
