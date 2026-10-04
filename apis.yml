@@ -50,7 +50,7 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Payments
 - Payment Processing
 - Payment Infrastructure
@@ -64,6 +64,7 @@ tags_raw:
 - Payment Infrastructure
 - Fintech
 - South Africa
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
